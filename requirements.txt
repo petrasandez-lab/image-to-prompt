@@ -1,7 +1,8 @@
 # requirements.txt
 streamlit
 requests
-streamlit-image-select7
+streamlit-image-select
+
 # MiniCPM dependencies
 torch
 transformers
